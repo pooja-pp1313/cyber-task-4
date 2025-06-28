@@ -63,7 +63,7 @@ Viewed existing inbound rules to understand current network traffic permissions.
 
 ---
 
-##  Notes
+## Notes
 
 - Port 22 (SSH) is typically used on Linux systems. It was included here only for demonstration.
 - Testing via `telnet` helps verify firewall behavior locally without external tools.
